@@ -1,4 +1,4 @@
-/* Generated on: Mon Oct 26 2020 11:10:05 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Oct 26 2020 13:00:08 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -72,4 +72,22 @@ body {
 .btn.btn--yellow {
   background-color: #ecdd38;
   color: #20134e;
+}
+
+.full-width-img {
+  display: block;
+  width: 100%;
+  max-width: 720px;
+  margin: 32px auto;
+}
+
+.video {
+  margin-top: 32px;
+  margin-bottom: 32px;
+}
+
+.video-wrap {
+  max-width: 720px;
+  margin-right: auto;
+  margin-left: auto;
 }
